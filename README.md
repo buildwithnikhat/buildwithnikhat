@@ -1,96 +1,36 @@
-# 👋 Hi, I'm Nikhat Shaikh
+---
 
-### 🚀 Python Engineer | AI Automation | FastAPI | Real Business Solutions
+## 🛠️ Tech Stack
 
-I build intelligent systems using Python, APIs, and AI to solve real-world business problems, automate workflows, and create scalable backend solutions.
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
 
 ---
 
-## 💡 What I Do
+### ⚙️ Backend
 
-* 🔹 Build **automation systems** to save time and reduce manual work
-* 🔹 Develop **FastAPI backends** for scalable applications
-* 🔹 Create **AI-powered tools** and intelligent workflows
-* 🔹 Work with **data, SQL, and dashboards**
-* 🔹 Design **real-world solutions** (not just demo projects)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge\&logo=fastapi)
 
 ---
-
-## 🧠 Tech Stack
-
-### 👨‍💻 Languages & Core
-
-* Python
-* SQL
-
-### ⚙️ Backend & APIs
-
-* FastAPI
-* REST APIs
 
 ### 🤖 AI / ML
 
-* Machine Learning
-* GenAI
-* Data Processing
-
-### 🛠️ Tools & Systems
-
-* Git & GitHub
-* Automation Scripts
-* Linux Basics
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-orange?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/GenAI-Building-purple?style=for-the-badge)
 
 ---
 
-## 🔥 Featured Projects
+### 🗄️ Databases
 
-### 🚀 AI Automation Tool
-
-Automates workflows using AI to reduce manual effort and improve efficiency
-👉 *Tech:* Python, APIs, AI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-DB-orange?style=for-the-badge\&logo=mysql)
 
 ---
 
-### ⚙️ FastAPI Backend System
+### 🛠️ Tools
 
-Scalable backend with REST APIs and clean architecture
-👉 *Tech:* FastAPI, Python
-
----
-
-### 📊 Data Dashboard / SQL Project
-
-Data analysis and reporting system with meaningful insights
-👉 *Tech:* SQL, Python
-
----
-
-## 📈 Currently Learning
-
-* Advanced AI Systems
-* MLOps & Deployment
-* Scalable Backend Architecture
-
----
-
-## 💼 Services I Offer
-
-* ✅ Python Automation
-* ✅ API Development (FastAPI)
-* ✅ Data Processing & SQL
-* ✅ AI-based Solutions
-
----
-
-## 📫 Let's Connect
-
-* 💼 LinkedIn: https://www.linkedin.com/in/nikhat-h-shaikh
-* 📧 Email: [nikhat.sn.shaikh@gmail.com](mailto:nikhat.sn.shaikh@gmail.com)
-
----
-
-## ⚡ Fun Fact
-
-I focus on building **practical, real-world solutions** that actually solve problems — not just theoretical code.
+![Git](https://img.shields.io/badge/Git-VersionControl-red?style=for-the-badge\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-System-black?style=for-the-badge\&logo=linux)
 
 ---
